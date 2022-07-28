@@ -1,0 +1,3 @@
+Q1 SELECT  department, COUNT(*) from employee where department = 'HR';
+
+Q2 select * from employee where fname like 's%';
